@@ -7,7 +7,7 @@ This is a basic ARPG game built with ImpactJS Javascript Game Engine. Some facts
 - Spent 20 hours on learning ImpactJS, reading documentation and developing the game.
 - It was the best way to spend a weekend!
 
-Demo can be found here: [http://www.anilunal.com/games/exiles-of-vanguard/]() (version may differ)
+Demo can be found here: [http://www.anilunal.com/games/exiles-of-vanguard/](http://www.anilunal.com/games/exiles-of-vanguard/) (version may differ)
 
 Repository is here for reference and educational purposes.
 
